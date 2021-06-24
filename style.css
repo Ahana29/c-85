@@ -1,0 +1,13 @@
+body{
+    background-image:url("https://i.postimg.cc/KzWwHPcq/racing.gif");
+    background-position:center;
+    background-size:cover;
+}
+#dacanvas{
+    background-color:white;
+    border-style:ridge;
+
+}
+h1,h4{
+    color:antiquewhite;
+}
